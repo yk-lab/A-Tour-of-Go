@@ -1,3 +1,5 @@
+.go-version
+
 ### https://raw.github.com/github/gitignore/e313e296c1e284d908adcb95bf4f2812617d4de1/Go.gitignore
 
 # Binaries for programs and plugins
@@ -66,7 +68,8 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
